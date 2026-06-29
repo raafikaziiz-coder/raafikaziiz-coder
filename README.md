@@ -79,20 +79,27 @@ Troubleshooting
 
 ---
 
-## 📂 Projects
+## 📂 Featured Project
 
-### 🔹 Pine Script Projects
+### 🔹 SR Hunter V4 — TradingView Pine Script Indicator
 
-Currently, I’m focusing on learning and building tools using **Pine Script**.
+SR Hunter V4 is a Pine Script indicator built for TradingView.  
+It focuses on layered market analysis and helps validate trading setups using multiple engines.
 
-Some of my current focus areas:
+Main analysis layers:
 
-- Trading indicators
-- Market structure tools
-- Chart-based analysis tools
-- TradingView script development
+- Trend Engine
+- Structure Engine
+- Location Engine
+- Trigger Engine
+- Quality Engine
+- Risk Engine
+- Decision Engine
+- UI Output Panel
 
-> More projects will be added here as I continue learning and building.
+🔗 Repository: https://github.com/raafikaziiz-coder/tradingview-pine-scripts
+
+> SR Hunter is designed as a validation partner, not a signal machine.
 
 ---
 
