@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Raafik Aziiz Nur Jalil
+# 👋 Hi, I'm Raafik Aziiz Nur Jaliil
 
 ### Software Engineering Student | Pine Script Developer | Linux Enthusiast
 
@@ -58,6 +58,10 @@ I enjoy building practical solutions while exploring **Pine Script**, **TradingV
 - 🔧 Troubleshooting
 - 🔄 Git & GitHub Workflow
 - 🛠️ Building Real Projects
+- 📝 Technical Documentation
+- ⚙️ Automation Basics
+- 🧩 System Architecture Basics
+- 🌱 Open Source Learning
 
 ---
 
