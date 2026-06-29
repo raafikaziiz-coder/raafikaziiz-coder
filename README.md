@@ -1,180 +1,147 @@
+<div align="center">
+
 # 👋 Hi, I'm Raafik Aziiz Nur Jalil
 
-### Beginner Developer | Pine Script & Trading Tools | Linux Enthusiast
+### Software Engineering Student | Pine Script Developer | Linux Enthusiast
 
-I'm currently learning **Software Engineering** by building real projects.  
-I enjoy exploring **Pine Script**, **Trading Tools**, **Linux**, **Networking**, and **Troubleshooting**.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=2F80ED&center=true&vCenter=true&width=700&lines=Learning+by+Building;Building+TradingView+Tools;Exploring+Linux+%26+Networking;Improving+One+Project+at+a+Time)
+
+> **Learning by building. Improving by solving. Growing one project at a time.**
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
+I'm passionate about learning **Software Engineering** through real-world projects.  
+I enjoy building practical solutions while exploring **Pine Script**, **TradingView Tools**, **Linux**, **Windows**, **Networking**, and **Troubleshooting**.
+
 - 🇮🇩 Indonesian Developer
-- 🌱 Currently learning **Software Engineering**
-- 📈 Interested in **Pine Script & Trading Tools**
-- 🐧 Exploring **Windows, Linux, Networking, and Troubleshooting**
-- 🛠️ Learning by building real projects
-- 🎯 Goal: Become a better developer step by step
-- 🔍 I like understanding how systems work
-- ⚡ Always improving through practice and real projects
+- 💻 Software Engineering Student
+- 📈 Pine Script & TradingView Enthusiast
+- 🐧 Linux & Windows Explorer
+- 🌐 Networking Learner
+- 🛠️ Problem Solver
+- 🔍 Curious about how systems work
+- 🚀 Building real projects to improve every day
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
+<div align="center">
+
 ![Pine Script](https://img.shields.io/badge/Pine%20Script-2962FF?style=for-the-badge&logo=tradingview&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-6C63FF?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+
+</div>
 
 ---
 
 ## 🧠 Skills & Interests
 
-### 💻 Software Engineering
-
-Currently learning the basics of software development, including:
-
-- Programming fundamentals
-- Problem solving
-- Code structure
-- Git & GitHub workflow
-- Building projects step by step
-
-### 📈 Pine Script Development
-
-I’m interested in building tools for TradingView using Pine Script, such as:
-
-- Custom indicators
-- Market structure tools
-- Trading utilities
-- Chart-based analysis tools
-- Simple automation ideas for trading analysis
-
-### 🖥️ System & Networking
-
-I also enjoy learning about systems and networking, including:
-
-- Windows troubleshooting
-- Linux basics
-- Network fundamentals
-- Basic device configuration
-- Solving technical problems
+- 💻 Software Engineering
+- 📈 Pine Script Development
+- 📊 TradingView Tools
+- 🖥️ Windows & Linux
+- 🌐 Networking Fundamentals
+- 🔧 Troubleshooting
+- 🔄 Git & GitHub Workflow
+- 🛠️ Building Real Projects
 
 ---
 
-## 📌 Current Focus
+## ⭐ Featured Project
+
+### 📈 SR Hunter V4 — TradingView Pine Script Indicator
+
+**SR Hunter V4** is a layered Pine Script indicator built for TradingView.  
+It helps validate trading setups through structured market analysis.
 
 ```text
-Software Engineering
-Pine Script Development
-TradingView Tools
-Git & GitHub
-Linux Basics
-Networking Fundamentals
-Troubleshooting
+Trend → Structure → Location → Trigger → Quality → Risk → Decision → UI
 ```
-
----
-
-## 📂 Featured Project
-
-### 🔹 SR Hunter V4 — TradingView Pine Script Indicator
-
-SR Hunter V4 is a Pine Script indicator built for TradingView.  
-It focuses on layered market analysis and helps validate trading setups using multiple engines.
 
 Main analysis layers:
 
-- Trend Engine
-- Structure Engine
-- Location Engine
-- Trigger Engine
-- Quality Engine
-- Risk Engine
-- Decision Engine
-- UI Output Panel
+- 📊 Trend Engine
+- 🧱 Structure Engine
+- 📍 Location Engine
+- ⚡ Trigger Engine
+- 🧪 Quality Engine
+- 🛡️ Risk Engine
+- 🧠 Decision Engine
+- 🖥️ UI Output Panel
 
 🔗 Repository: https://github.com/raafikaziiz-coder/tradingview-pine-scripts
 
-> SR Hunter is designed as a validation partner, not a signal machine.
+> **SR Hunter is designed as a validation partner, not a signal machine.**
 
 ---
 
-## 🛠️ Project Ideas I'm Working Toward
+## 📂 Current Projects
 
-Here are some project ideas I want to build in the future:
-
-- 📈 Simple Pine Script indicator
-- 📊 Market structure indicator
-- 🧭 Trading session marker
-- 🖥️ Personal portfolio website
-- ✅ To-do list web app
-- 🌐 Basic networking notes repository
-- 🐧 Linux command notes
+- 🚀 **SR Hunter V4**
+- 📈 TradingView Utilities
+- 💻 Windows Tools
+- 🐧 Linux Learning Notes
+- 📚 Software Engineering Journey
 
 ---
 
-## 🗂️ Learning Roadmap
+## 🎯 Current Mission
 
-### Step 1 — Foundation
-
-- Learn Git & GitHub
-- Understand basic programming concepts
-- Practice writing clean README files
-- Build small projects consistently
-
-### Step 2 — Web Basics
-
-- HTML
-- CSS
-- JavaScript basics
-- Simple portfolio website
-
-### Step 3 — Pine Script
-
-- Pine Script syntax
-- Indicators
-- Alerts
-- Market structure logic
-- TradingView publishing workflow
-
-### Step 4 — System & Networking
-
-- Linux commands
-- Networking basics
-- Troubleshooting
-- Documentation notes
+```text
+Build SR Hunter
+Master Software Engineering Fundamentals
+Improve Pine Script Skills
+Learn Linux & Networking
+Write Better Documentation
+Keep Building Real Projects
+```
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Raafik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raafikaziiz-coder&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raafikaziiz-coder&layout=compact&theme=tokyonight)
 
+</div>
+
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-raafikaziiznur%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raafikaziiznur@gmail.com)
-
 [![Instagram](https://img.shields.io/badge/Instagram-@raff.nj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raff.nj)
 
----
-
-## ⚡ Motto
-
-> Learning by building real projects.
+</div>
 
 ---
 
-## 🚀 Personal Note
+## 💡 Philosophy
 
-I’m still at the beginning of my developer journey, but I believe consistency is the key.  
-Every small project, every bug, and every lesson helps me become better.
+> **Every bug is a lesson.**  
+> **Every project is progress.**  
+> **Every commit is another step forward.**
 
-Thanks for visiting my GitHub profile!
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my GitHub profile!
+
+</div>
