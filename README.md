@@ -8,6 +8,9 @@
 
 > **Learning by building. Improving by solving. Growing one project at a time.**
 
+🌐 **Portfolio Website:**  
+[https://raafikaziiz-coder.github.io](https://raafikaziiz-coder.github.io)
+
 </div>
 
 ---
@@ -67,81 +70,3 @@ It helps validate trading setups through structured market analysis.
 
 ```text
 Trend → Structure → Location → Trigger → Quality → Risk → Decision → UI
-```
-
-Main analysis layers:
-
-- 📊 Trend Engine
-- 🧱 Structure Engine
-- 📍 Location Engine
-- ⚡ Trigger Engine
-- 🧪 Quality Engine
-- 🛡️ Risk Engine
-- 🧠 Decision Engine
-- 🖥️ UI Output Panel
-
-🔗 Repository: https://github.com/raafikaziiz-coder/tradingview-pine-scripts
-
-> **SR Hunter is designed as a validation partner, not a signal machine.**
-
----
-
-## 📂 Current Projects
-
-- 🚀 **SR Hunter V4**
-- 📈 TradingView Utilities
-- 💻 Windows Tools
-- 🐧 Linux Learning Notes
-- 📚 Software Engineering Journey
-
----
-
-## 🎯 Current Mission
-
-```text
-Build SR Hunter
-Master Software Engineering Fundamentals
-Improve Pine Script Skills
-Learn Linux & Networking
-Write Better Documentation
-Keep Building Real Projects
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Raafik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raafikaziiz-coder&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raafikaziiz-coder&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-raafikaziiznur%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raafikaziiznur@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@raff.nj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raff.nj)
-
-</div>
-
----
-
-## 💡 Philosophy
-
-> **Every bug is a lesson.**  
-> **Every project is progress.**  
-> **Every commit is another step forward.**
-
----
-
-<div align="center">
-
-### 🚀 Thanks for visiting my GitHub profile!
-
-</div>
