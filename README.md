@@ -37,15 +37,15 @@ I enjoy building practical projects while improving my technical foundation thro
 
 <div align="center">
 
-## Raff.
+# Raff.
 
 ### Software • Pine Script • Linux
 
 </div>
 
-**Raff.** is my personal developer identity for portfolio, GitHub projects, learning documentation, and career preparation.
+**Raff.** adalah identitas pengembang pribadi saya untuk portfolio, project GitHub, dokumentasi pembelajaran, dan persiapan karier di bidang teknologi.
 
-The visual direction of my portfolio uses:
+Arah visual portfolio saya menggabungkan:
 
 - Dark galaxy theme
 - Clean developer branding
@@ -54,7 +54,7 @@ The visual direction of my portfolio uses:
 - Stable single-page portfolio structure
 - RA logo identity
 
-Official identity:
+Identitas profesional:
 
 ```text
 Raafik Aziiz Nur Jaliil
