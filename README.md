@@ -680,4 +680,3 @@ I want every project to show progress, discipline, and clear learning direction.
 </div>
 ```
 
-Kelar bree. Ini **tetap ada animasi + ikon + full rundown**.
