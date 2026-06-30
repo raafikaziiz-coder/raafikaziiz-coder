@@ -39,7 +39,7 @@ I enjoy building practical projects while improving my technical foundation thro
 
 ## Raff.
 
-### Software • Pine • Linux
+### Software • Pine Script • Linux
 
 </div>
 
