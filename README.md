@@ -9,7 +9,7 @@
 > **Learning by building. Improving by solving. Growing one project at a time.**
 
 🌐 **Portfolio Website:**  
-[https://raafikaziiz-coder.github.io](https://raafikaziiz-coder.github.io)
+[https://raafikaziiz-labs.github.io](https://raafikaziiz-labs.github.io)
 
 </div>
 
